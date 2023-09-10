@@ -8,6 +8,8 @@
 .logo {
   font-weight: bold;
   font-size: 22px;
+  font-style: italic;
+  font-family: Poppins, sans-serif;
 }
 
 .links {
