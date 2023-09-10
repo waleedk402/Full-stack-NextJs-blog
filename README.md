@@ -44,11 +44,11 @@ To run this project locally, follow these steps:
 2. Set up your MongoDB database and configure the connection.
    
 3. Install the required dependencies:
-
- ##npm install
- ##or
- ##yarn install
-
+ ```sh
+ npm install
+ or
+ yarn install
+```
 
 **Acknowledgments**
 Special thanks to the open-source community and the developers behind Next.js, MongoDB, and other technologies used in this project.
